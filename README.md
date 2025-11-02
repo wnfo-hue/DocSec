@@ -272,7 +272,7 @@ Let's simulate a Red Team operator's thought process for a spear-phishing campai
         *   Add text that reads: "This document is protected by company security policy. Please click 'Enable Content' in the yellow bar above to view the document." 
     *   **Delivery:** Embed the document in a convincing phishing email (e.g., subject: "Updated Q4 Financial Report"). 
 
-5.  **Desired Outcome:** The user receives the email, opens the document, sees the lure, clicks "Enable Content," and the macro executes. The PowerShell stager runs, bypasses AMSI, and launches the payload, establishing a foothold for the attacker. 🚪
+5.  **Desired Outcome:** The user receives the email, opens the document, sees the lure, clicks "Enable Content," and the macro executes. The PowerShell stager runs, bypasses AMSI, and launches the payload, establishing a foothold for the attacker. 
 
 <br>
 
