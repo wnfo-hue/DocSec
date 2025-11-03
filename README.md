@@ -276,7 +276,7 @@ Let's simulate a Red Team operator's thought process for a spear-phishing campai
 
 <br>
 
-## ✅ Conclusion and Key Takeaways 
+## 🎯 Conclusion and Takeaways 
 
 Office document attacks are a persistent and evolving threat. While the methods change, the core principles remain the same: abusing legitimate features and exploiting human trust.
 
