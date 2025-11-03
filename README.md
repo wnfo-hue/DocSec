@@ -188,7 +188,7 @@ End Sub
 
 <br>
 
-## 🔗 Attack Vector 2: DDE Exploits - The "No-Macro" Method
+## ⚙️ Attack Vector 2: DDE Exploits - The "No-Macro" Method
 
 ### Understanding DDE
 
